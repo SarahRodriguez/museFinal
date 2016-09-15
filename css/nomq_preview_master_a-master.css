@@ -1,23 +1,13 @@
+	#u227_align_to_page
+	{
+		max-width: 1400px;
+	}
+
 	#menuu802
 	{
 		border-width: 0px;
 		border-color: transparent;
 		background-color: #00A99D;
-	}
-
-	#u804
-	{
-		background-color: #00A99D;
-	}
-
-	#u804:hover
-	{
-		background-color: #29ABE2;
-	}
-
-	#u804:active
-	{
-		background-color: #003B30;
 	}
 
 	#u8110
@@ -50,7 +40,22 @@
 		background-color: #003B30;
 	}
 
-	#u803,#u8107,#u8403,#u8780
+	#u53159
+	{
+		background-color: #00A99D;
+	}
+
+	#u53159:hover
+	{
+		background-color: #29ABE2;
+	}
+
+	#u53159:active
+	{
+		background-color: #003B30;
+	}
+
+	#u8107,#u8403,#u53158,#u8780
 	{
 		background-color: transparent;
 	}
@@ -70,41 +75,20 @@
 		background-color: #003B30;
 	}
 
-	#u804.MuseMenuActive,#u8110.MuseMenuActive,#u8404.MuseMenuActive,#u8783.MuseMenuActive
+	#u8110.MuseMenuActive,#u8404.MuseMenuActive,#u53159.MuseMenuActive,#u8783.MuseMenuActive
 	{
 		background-color: #006D46;
 	}
 
-	#u806-4_clip,#u8112-4_clip,#u8407-4_clip,#u8785-4_clip
+	#u8112-4_clip,#u8407-4_clip,#u53161-4_clip,#u8785-4_clip
 	{
 		overflow: hidden;
 		vertical-align: top;
 	}
 
-	#u806-4_img,#u8112-4_img,#u8407-4_img,#u8785-4_img
+	#u8112-4_img,#u8407-4_img,#u53161-4_img,#u8785-4_img
 	{
 		display: block;
-	}
-
-	#u22183
-	{
-		-webkit-transform: matrix(0.9903,0.1392,-0.1392,0.9903,39,-45);
-		-ms-transform: matrix(0.9903,0.1392,-0.1392,0.9903,39,-45);
-		transform: matrix(0.9903,0.1392,-0.1392,0.9903,39,-45);
-		-webkit-transform: matrix(0.9903,0.1392,-0.1392,0.9903,45,-53);
-		-ms-transform: matrix(0.9903,0.1392,-0.1392,0.9903,45,-53);
-		transform: matrix(0.9903,0.1392,-0.1392,0.9903,45,-53);
-		-webkit-transform: matrix(0.9903,0.1392,-0.1392,0.9903,45,-53);
-		-ms-transform: matrix(0.9903,0.1392,-0.1392,0.9903,45,-53);
-		transform: matrix(0.9903,0.1392,-0.1392,0.9903,45,-53);
-		-webkit-transform: matrix(0.9903,0.1392,-0.1392,0.9903,45,-53);
-		-ms-transform: matrix(0.9903,0.1392,-0.1392,0.9903,45,-53);
-		transform: matrix(0.9903,0.1392,-0.1392,0.9903,45,-53);
-	}
-
-	#u227_align_to_page,#u309_align_to_page
-	{
-		max-width: 1400px;
 	}
 
 	#u336-4
@@ -115,6 +99,14 @@
 		font-size: 22px;
 		letter-spacing: 1px;
 		font-family: Times, Times New Roman, Georgia, serif;
+	}
+
+	#u57270
+	{
+		background-color: transparent;
+		-webkit-transform: matrix(0.9877,0.1564,-0.1564,0.9877,50,-57);
+		-ms-transform: matrix(0.9877,0.1564,-0.1564,0.9877,50,-57);
+		transform: matrix(0.9877,0.1564,-0.1564,0.9877,50,-57);
 	}
 
 

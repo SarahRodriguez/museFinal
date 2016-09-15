@@ -1,13 +1,175 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.com/images/playground640x480.png</loc>
+    <loc>http://example.com/images/playground.png</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/playground444x333.png</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/capwolf1.png</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/tonyote.png</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/pegar1.png</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/pulled-fromthesoup2.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://example.com/images/spacehotellines.jpg</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/2_heroes.jpg</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/gemsandsteven.jpg</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/pulled-fromthesoup2120x92.jpg</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/pulled-fromthesoup294x73.jpg</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/capwolf1451x631.png</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/tonyote440x617.png</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/pegar1455x651.png</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/pulled-fromthesoup2684x528.jpg</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/pulled-fromthesoup289x68.jpg</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/new%20doc%2027_4-2.jpg</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/livia%20stargaze%20sketch.jpg</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/mallycolor.jpg</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/abbington.jpg</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/beryl%20coronet.jpg</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/livia%20stargaze%20sketch602x719.jpg</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/beryl%20coronet484x657.jpg</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/gemsandsteven534x704.jpg</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/mallycolor100x102.jpg</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/livia%20stargaze%20sketch571x682.jpg</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/mallycolor698x706.jpg</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/beryl%20coronet510x692.jpg</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/images/gemsandsteven494x652.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -25,13 +187,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/krikit1993x993.jpg</loc>
+    <loc>http://example.com/images/krikit1.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/livia897x1016.jpg</loc>
+    <loc>http://example.com/images/livia.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -55,19 +217,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/mallycolor1073x1086.jpg</loc>
-    <lastmod>2016-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://example.com/images/mally1067x872.png</loc>
-    <lastmod>2016-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://example.com/images/livia%20stargaze%20sketch861x1027.jpg</loc>
+    <loc>http://example.com/images/mally.png</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -109,211 +259,151 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/playground617x463.png</loc>
+    <loc>http://example.com/images/spacehotellines406x696.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/new%20doc%2026_1370x589.jpg</loc>
+    <loc>http://example.com/images/spacehotellines415x702.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/topps1659x623.jpg</loc>
+    <loc>http://example.com/images/krikit1705x705.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/job659x539.jpg</loc>
+    <loc>http://example.com/images/livia658x745.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/mally659x540.png</loc>
+    <loc>http://example.com/images/topps1737x696.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/topps%20and%20krikit_2304x604.jpg</loc>
+    <loc>http://example.com/images/job856x700.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/job87x72.jpg</loc>
+    <loc>http://example.com/images/mallycolor786x795.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/mally87x72.png</loc>
+    <loc>http://example.com/images/mally754x617.png</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/playground546x410.png</loc>
+    <loc>http://example.com/images/livia%20stargaze%20sketch634x757.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/krikit1.jpg</loc>
+    <loc>http://example.com/images/topps%20and%20krikit_2338x672.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/livia.jpg</loc>
+    <loc>http://example.com/images/job60x50.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/mally.png</loc>
+    <loc>http://example.com/images/mally60x50.png</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/krikit152x52.jpg</loc>
+    <loc>http://example.com/images/spacehotellines404x694.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/topps152x50.jpg</loc>
+    <loc>http://example.com/images/spacehotellines416x705.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/job53x43.jpg</loc>
+    <loc>http://example.com/images/krikit1682x682.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/mallycolor52x53.jpg</loc>
+    <loc>http://example.com/images/livia616x697.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/mally53x43.png</loc>
+    <loc>http://example.com/images/topps1750x708.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/hamburger110x83.png</loc>
+    <loc>http://example.com/images/job867x708.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/playground746x560.png</loc>
+    <loc>http://example.com/images/mallycolor736x745.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/playground.png</loc>
+    <loc>http://example.com/images/mally762x623.png</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/capwolf1.png</loc>
+    <loc>http://example.com/images/livia%20stargaze%20sketch590x705.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/tonyote.png</loc>
+    <loc>http://example.com/images/topps173x69.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/pegar1.png</loc>
+    <loc>http://example.com/images/job73x60.jpg</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://example.com/images/pulled-fromthesoup2.jpg</loc>
-    <lastmod>2016-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://example.com/images/2_heroes.jpg</loc>
-    <lastmod>2016-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://example.com/images/gemsandsteven739x976.jpg</loc>
-    <lastmod>2016-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://example.com/images/pulled-fromthesoup2120x92.jpg</loc>
-    <lastmod>2016-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://example.com/images/new%20doc%2027_4-2.jpg</loc>
-    <lastmod>2016-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://example.com/images/livia%20stargaze%20sketch831x993.jpg</loc>
-    <lastmod>2016-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://example.com/images/mallycolor.jpg</loc>
-    <lastmod>2016-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://example.com/images/abbington.jpg</loc>
-    <lastmod>2016-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://example.com/images/beryl%20coronet.jpg</loc>
-    <lastmod>2016-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://example.com/images/gemsandsteven.jpg</loc>
+    <loc>http://example.com/images/mally73x60.png</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://example.com/index.html</loc>
-    <lastmod>2016-09-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://example.com/contact.html</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -326,6 +416,12 @@
   </url>
   <url>
     <loc>http://example.com/traditional-art.html</loc>
+    <lastmod>2016-09-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://example.com/character-design.html</loc>
     <lastmod>2016-09-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

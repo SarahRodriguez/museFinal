@@ -1,200 +1,211 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="example.com" resolutions="1x" timestamp="1473968470509">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="srodriguez@student.mtsierra.edu" resolutions="1x" timestamp="1473980215706">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="master_a-master.css" crc="4285087237" ref="digital-art:contact:traditional-art:index"/>
-    <file name="nomq_preview_master_a-master.css" crc="360241207" ref="digital-art:contact:traditional-art:index"/>
-    <file name="digital-art.css" crc="4257515515" ref="digital-art"/>
-    <file name="nomq_digital-art.css" crc="279120157" ref="digital-art"/>
-    <file name="contact.css" crc="52963546" ref="contact"/>
-    <file name="nomq_contact.css" crc="4063391883" ref="contact"/>
-    <file name="traditional-art.css" crc="468313644" ref="traditional-art"/>
-    <file name="nomq_traditional-art.css" crc="4275330379" ref="traditional-art"/>
-    <file name="index.css" crc="342250872" ref="index"/>
-    <file name="nomq_index.css" crc="238394285" ref="index"/>
+    <file name="master_a-master.css" crc="155009358" ref="digital-art:character-design:index:traditional-art"/>
+    <file name="nomq_preview_master_a-master.css" crc="4223554914" ref="digital-art:character-design:index:traditional-art"/>
+    <file name="digital-art.css" crc="4181113037" ref="digital-art"/>
+    <file name="nomq_digital-art.css" crc="4078673864" ref="digital-art"/>
+    <file name="character-design.css" crc="434578966" ref="character-design"/>
+    <file name="nomq_character-design.css" crc="4023037915" ref="character-design"/>
+    <file name="index.css" crc="4136367946" ref="index"/>
+    <file name="nomq_index.css" crc="151756134" ref="index"/>
+    <file name="traditional-art.css" crc="3827465124" ref="traditional-art"/>
+    <file name="nomq_traditional-art.css" crc="4191815779" ref="traditional-art"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:contact:digital-art:traditional-art"/>
-    <file name="museutils.js" crc="4190794036" ref="index:contact:digital-art:traditional-art"/>
-    <file name="whatinput.js" crc="84559013" ref="index:contact:digital-art:traditional-art"/>
-    <file name="jquery.watch.js" crc="349565855" ref="index:contact:digital-art:traditional-art"/>
-    <file name="jquery.musemenu.js" crc="3866264083" ref="index:contact:digital-art:traditional-art"/>
-    <file name="pie.js" crc="3827607177" ref="index:digital-art:traditional-art"/>
-    <file name="webpro.js" crc="488283310" ref="index:contact:digital-art:traditional-art"/>
-    <file name="musewpslideshow.js" crc="248860441" ref="index:digital-art:traditional-art"/>
-    <file name="jquery.museoverlay.js" crc="3898476799" ref="index:digital-art:traditional-art"/>
-    <file name="touchswipe.js" crc="4191887251" ref="index:digital-art:traditional-art"/>
-    <file name="musewpdisclosure.js" crc="3898505244" ref="index:contact:digital-art:traditional-art"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:contact:digital-art:traditional-art"/>
-    <file name="jquery.museresponsive.js" crc="408737887" ref="index:contact:digital-art:traditional-art"/>
-    <file name="form_check.php" crc="430210585" ref="contact"/>
-    <file name="form_throttle.php" crc="282343929" ref="contact"/>
-    <file name="form_process.php" crc="339897355" ref="contact"/>
-    <file name="form-u40297.php" crc="3857376018" ref="contact"/>
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="museutils.js" crc="4190794036" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="whatinput.js" crc="84559013" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="webpro.js" crc="488283310" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="form_check.php" crc="430210585" ref="index"/>
+    <file name="form_throttle.php" crc="282343929" ref="index"/>
+    <file name="form_process.php" crc="339897355" ref="index"/>
+    <file name="form-u40297.php" crc="3857376018" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3898505244" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="jquery.museresponsive.js" crc="408737887" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="pie.js" crc="3827607177" ref="digital-art:traditional-art:character-design"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="digital-art:traditional-art:character-design"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="digital-art:traditional-art:character-design"/>
+    <file name="touchswipe.js" crc="4191887251" ref="digital-art:traditional-art:character-design"/>
   </folder>
   <folder name="images">
-    <file name="u806-4.png" crc="385983096" ref="index:contact:digital-art:traditional-art"/>
-    <file name="u8112-4.png" crc="4283177245" ref="index:contact:digital-art:traditional-art"/>
-    <file name="u8407-4.png" crc="518082349" ref="index:contact:digital-art:traditional-art"/>
-    <file name="u8785-4.png" crc="4071878502" ref="index:contact:digital-art:traditional-art"/>
-    <file name="playground640x480.png" crc="4145056986" seo="true" ref="index"/>
-    <file name="spacehotellines.jpg" crc="383707033" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:contact:digital-art:traditional-art"/>
-    <file name="spacehotellines2.jpg" crc="141304108" seo="true" ref="index:digital-art"/>
-    <file name="topps and krikit_1.jpg" crc="3945365231" seo="true" ref="index"/>
-    <file name="krikit1993x993.jpg" crc="3872948905" seo="true" ref="index"/>
-    <file name="livia897x1016.jpg" crc="3953825738" seo="true" ref="index"/>
-    <file name="new doc 26_1.jpg" crc="4231962317" seo="true" ref="index"/>
-    <file name="topps1.jpg" crc="172453669" seo="true" ref="index"/>
-    <file name="job.jpg" crc="4224668471" seo="true" ref="index"/>
-    <file name="mallycolor1073x1086.jpg" crc="168123439" seo="true" ref="index"/>
-    <file name="mally1067x872.png" crc="359314774" seo="true" ref="index"/>
-    <file name="livia stargaze sketch861x1027.jpg" crc="4215109370" seo="true" ref="index"/>
-    <file name="topps and krikit_2.jpg" crc="491401281" seo="true" ref="index"/>
-    <file name="spacehotellines-crop-u19804.jpg" crc="526370723" ref="index"/>
-    <file name="spacehotellines-crop-u47337.jpg" crc="4274310657" ref="index"/>
-    <file name="topps and krikit_1-crop-u20005.jpg" crc="110331427" ref="index"/>
-    <file name="krikit192x92.jpg" crc="3776205810" seo="true" ref="index"/>
-    <file name="livia-crop-u20135.jpg" crc="185465052" ref="index"/>
-    <file name="new doc 26_1-crop-u21072.jpg" crc="166470259" ref="index"/>
-    <file name="topps192x87.jpg" crc="67331386" seo="true" ref="index"/>
-    <file name="job98x80.jpg" crc="3873198879" seo="true" ref="index"/>
-    <file name="mallycolor92x94.jpg" crc="4181216063" seo="true" ref="index"/>
-    <file name="mally98x80.png" crc="3999939262" seo="true" ref="index"/>
-    <file name="livia stargaze sketch-crop-u46020.jpg" crc="3939607673" ref="index"/>
-    <file name="topps and krikit_2-crop-u20025.jpg" crc="3795876300" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index:digital-art:traditional-art"/>
-    <file name="playground617x463.png" crc="288249791" seo="true" ref="index"/>
-    <file name="spacehotellines-crop-u19827.jpg" crc="467015299" ref="index"/>
-    <file name="spacehotellines-crop-u47323.jpg" crc="180323571" ref="index"/>
-    <file name="topps and krikit_1-crop-u19999.jpg" crc="462197758" ref="index"/>
-    <file name="krikit1-crop-u20109.jpg" crc="3971027932" ref="index"/>
-    <file name="livia-crop-u20129.jpg" crc="416257363" ref="index"/>
-    <file name="new doc 26_1370x589.jpg" crc="174801754" seo="true" ref="index"/>
-    <file name="topps1659x623.jpg" crc="3927346455" seo="true" ref="index"/>
-    <file name="job659x539.jpg" crc="3978048607" seo="true" ref="index"/>
-    <file name="mallycolor-crop-u47374.jpg" crc="222565283" ref="index"/>
-    <file name="mally659x540.png" crc="3931798799" seo="true" ref="index"/>
-    <file name="livia stargaze sketch-crop-u46006.jpg" crc="404729505" ref="index"/>
-    <file name="topps and krikit_2304x604.jpg" crc="51401753" seo="true" ref="index"/>
-    <file name="spacehotellines-crop-u198042.jpg" crc="64456874" ref="index"/>
-    <file name="spacehotellines-crop-u473372.jpg" crc="295455753" ref="index"/>
-    <file name="topps and krikit_1-crop-u200052.jpg" crc="479216204" ref="index"/>
-    <file name="krikit1-crop-u20115.jpg" crc="4133170139" ref="index"/>
-    <file name="livia-crop-u201352.jpg" crc="510591514" ref="index"/>
-    <file name="new doc 26_1-crop-u210722.jpg" crc="4019539917" ref="index"/>
-    <file name="topps1-crop-u42571.jpg" crc="81624740" ref="index"/>
-    <file name="job87x72.jpg" crc="11845545" seo="true" ref="index"/>
-    <file name="mallycolor-crop-u47388.jpg" crc="3771566447" ref="index"/>
-    <file name="mally87x72.png" crc="144585616" seo="true" ref="index"/>
-    <file name="livia stargaze sketch-crop-u460202.jpg" crc="42779347" ref="index"/>
-    <file name="topps and krikit_2-crop-u200252.jpg" crc="133281971" ref="index"/>
-    <file name="u336-4.png" crc="403820625" ref="index:contact:digital-art:traditional-art"/>
-    <file name="playground546x410.png" crc="3761779290" seo="true" ref="index"/>
-    <file name="krikit1.jpg" crc="4066766964" seo="true" ref="index"/>
-    <file name="livia.jpg" crc="4034508185" seo="true" ref="index"/>
-    <file name="mally.png" crc="4096799080" seo="true" ref="index"/>
-    <file name="livia stargaze sketch-crop-u460062.jpg" crc="221726793" ref="index"/>
-    <file name="spacehotellines-crop-u198043.jpg" crc="3918285772" ref="index"/>
-    <file name="spacehotellines-crop-u473373.jpg" crc="4089530841" ref="index"/>
-    <file name="topps and krikit_1-crop-u200053.jpg" crc="396996105" ref="index"/>
-    <file name="krikit152x52.jpg" crc="474304777" seo="true" ref="index"/>
-    <file name="livia-crop-u201353.jpg" crc="308143016" ref="index"/>
-    <file name="new doc 26_1-crop-u210723.jpg" crc="33849166" ref="index"/>
-    <file name="topps152x50.jpg" crc="373793216" seo="true" ref="index"/>
-    <file name="job53x43.jpg" crc="3953160927" seo="true" ref="index"/>
-    <file name="mallycolor52x53.jpg" crc="4182229561" seo="true" ref="index"/>
-    <file name="mally53x43.png" crc="380082595" seo="true" ref="index"/>
-    <file name="livia stargaze sketch-crop-u460203.jpg" crc="165980759" ref="index"/>
-    <file name="topps and krikit_2-crop-u200253.jpg" crc="461227518" ref="index"/>
-    <file name="u22820-4.png" crc="4036988952" ref="index:contact:digital-art:traditional-art"/>
-    <file name="u23470-4.png" crc="3847957506" ref="index:contact:digital-art:traditional-art"/>
-    <file name="u23552-4.png" crc="7826079" ref="index:contact:digital-art:traditional-art"/>
-    <file name="u23634-4.png" crc="4049724696" ref="index:contact:digital-art:traditional-art"/>
-    <file name="hamburger110x83.png" crc="159031031" seo="true" ref="index"/>
-    <file name="playground746x560.png" crc="115894998" seo="true" ref="contact"/>
-    <file name="u40300.png" crc="309773190" ref="contact"/>
-    <file name="u40300-ferr.png" crc="288553932" ref="contact"/>
-    <file name="u40308.png" crc="4143734907" ref="contact"/>
-    <file name="u40308-ferr.png" crc="188159" ref="contact"/>
-    <file name="u40305-17.png" crc="82248592" ref="contact"/>
-    <file name="u40305-17-r.png" crc="178270725" ref="contact"/>
-    <file name="u40305-17-m.png" crc="4053649012" ref="contact"/>
-    <file name="u40305-17-fs.png" crc="90889224" ref="contact"/>
-    <file name="u40313.png" crc="41162964" ref="contact"/>
-    <file name="u40313-ferr.png" crc="4155662282" ref="contact"/>
-    <file name="playground.png" crc="64104126" seo="true" ref="contact:digital-art:traditional-art"/>
-    <file name="u403002.png" crc="309773190" ref="contact"/>
-    <file name="u40300-ferr2.png" crc="288553932" ref="contact"/>
-    <file name="u403082.png" crc="4143734907" ref="contact"/>
-    <file name="u40308-ferr2.png" crc="188159" ref="contact"/>
-    <file name="u40305-172.png" crc="3809414332" ref="contact"/>
-    <file name="u40305-17-r2.png" crc="3778994072" ref="contact"/>
-    <file name="u40305-17-m2.png" crc="3816835504" ref="contact"/>
-    <file name="u40305-17-fs2.png" crc="184928745" ref="contact"/>
-    <file name="u403132.png" crc="41162964" ref="contact"/>
-    <file name="u40313-ferr2.png" crc="4155662282" ref="contact"/>
-    <file name="u403003.png" crc="309773190" ref="contact"/>
-    <file name="u40300-ferr3.png" crc="288553932" ref="contact"/>
-    <file name="u403083.png" crc="4143734907" ref="contact"/>
-    <file name="u40308-ferr3.png" crc="188159" ref="contact"/>
-    <file name="u40305-173.png" crc="3809414332" ref="contact"/>
-    <file name="u40305-17-r3.png" crc="3778994072" ref="contact"/>
-    <file name="u40305-17-m3.png" crc="3816835504" ref="contact"/>
-    <file name="u40305-17-fs3.png" crc="184928745" ref="contact"/>
-    <file name="u403133.png" crc="41162964" ref="contact"/>
-    <file name="u40313-ferr3.png" crc="4155662282" ref="contact"/>
+    <file name="u8112-4.png" crc="4283177245" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="u8407-4.png" crc="518001676" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="u53161-4.png" crc="4103449687" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="u8785-4.png" crc="4071878502" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="playground.png" crc="334120523" seo="true" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="blank.gif" crc="4208392903" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="u40300.png" crc="309773190" ref="index"/>
+    <file name="u40300-ferr.png" crc="288553932" ref="index"/>
+    <file name="u40308.png" crc="4143734907" ref="index"/>
+    <file name="u40308-ferr.png" crc="188159" ref="index"/>
+    <file name="u40305-17.png" crc="82248592" ref="index"/>
+    <file name="u40305-17-r.png" crc="178270725" ref="index"/>
+    <file name="u40305-17-m.png" crc="4053649012" ref="index"/>
+    <file name="u40305-17-fs.png" crc="90889224" ref="index"/>
+    <file name="u40313.png" crc="41162964" ref="index"/>
+    <file name="u40313-ferr.png" crc="4155662282" ref="index"/>
+    <file name="u336-4.png" crc="4225432088" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="playground444x333.png" crc="335282321" seo="true" ref="index"/>
+    <file name="u403002.png" crc="309773190" ref="index"/>
+    <file name="u40300-ferr2.png" crc="288553932" ref="index"/>
+    <file name="u403082.png" crc="4143734907" ref="index"/>
+    <file name="u40308-ferr2.png" crc="188159" ref="index"/>
+    <file name="u40305-172.png" crc="3809414332" ref="index"/>
+    <file name="u40305-17-r2.png" crc="3778994072" ref="index"/>
+    <file name="u40305-17-m2.png" crc="3816835504" ref="index"/>
+    <file name="u40305-17-fs2.png" crc="184928745" ref="index"/>
+    <file name="u403132.png" crc="41162964" ref="index"/>
+    <file name="u40313-ferr2.png" crc="4155662282" ref="index"/>
+    <file name="hamburger.png" crc="280993356" ref="index"/>
+    <file name="u23470-4.png" crc="3878067821" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="u23552-4.png" crc="454738944" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="u53092-4.png" crc="245047492" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="u23634-4.png" crc="209544978" ref="index:digital-art:traditional-art:character-design"/>
+    <file name="u403003.png" crc="309773190" ref="index"/>
+    <file name="u40300-ferr3.png" crc="288553932" ref="index"/>
+    <file name="u403083.png" crc="4143734907" ref="index"/>
+    <file name="u40308-ferr3.png" crc="188159" ref="index"/>
+    <file name="u40305-173.png" crc="3809414332" ref="index"/>
+    <file name="u40305-17-r3.png" crc="3778994072" ref="index"/>
+    <file name="u40305-17-m3.png" crc="3816835504" ref="index"/>
+    <file name="u40305-17-fs3.png" crc="184928745" ref="index"/>
+    <file name="u403133.png" crc="41162964" ref="index"/>
+    <file name="u40313-ferr3.png" crc="4155662282" ref="index"/>
     <file name="capwolf1.png" crc="4200432182" seo="true" ref="digital-art"/>
     <file name="tonyote.png" crc="4252856348" seo="true" ref="digital-art"/>
     <file name="pegar1.png" crc="4081296312" seo="true" ref="digital-art"/>
     <file name="pulled-fromthesoup2.jpg" crc="49783969" seo="true" ref="digital-art"/>
+    <file name="spacehotellines.jpg" crc="141304108" seo="true" ref="digital-art:character-design"/>
     <file name="2_heroes.jpg" crc="4066969935" seo="true" ref="digital-art"/>
-    <file name="gemsandsteven739x976.jpg" crc="527802765" seo="true" ref="digital-art"/>
-    <file name="capwolf1-crop-u27115.png" crc="419645756" ref="digital-art"/>
-    <file name="tonyote-crop-u39247.png" crc="277675964" ref="digital-art"/>
-    <file name="pegar1-crop-u39222.png" crc="121431668" ref="digital-art"/>
+    <file name="gemsandsteven.jpg" crc="364131246" seo="true" ref="digital-art:traditional-art"/>
+    <file name="capwolf1-crop-u27115.png" crc="3947500286" ref="digital-art"/>
+    <file name="tonyote-crop-u39247.png" crc="343869894" ref="digital-art"/>
+    <file name="pegar1-crop-u39222.png" crc="326781743" ref="digital-art"/>
     <file name="pulled-fromthesoup2120x92.jpg" crc="3799824107" seo="true" ref="digital-art"/>
-    <file name="spacehotellines-crop-u47656.jpg" crc="4276699724" ref="digital-art"/>
-    <file name="2_heroes-crop-u48388.jpg" crc="3908091895" ref="digital-art"/>
-    <file name="gemsandsteven-crop-u49530.jpg" crc="83745164" ref="digital-art"/>
-    <file name="capwolf1-crop-u271152.png" crc="419645756" ref="digital-art"/>
-    <file name="tonyote-crop-u392472.png" crc="277675964" ref="digital-art"/>
-    <file name="pegar1-crop-u392222.png" crc="121431668" ref="digital-art"/>
-    <file name="spacehotellines-crop-u476562.jpg" crc="4276699724" ref="digital-art"/>
-    <file name="2_heroes-crop-u483882.jpg" crc="3908091895" ref="digital-art"/>
-    <file name="gemsandsteven-crop-u495302.jpg" crc="83745164" ref="digital-art"/>
-    <file name="capwolf1-crop-u271153.png" crc="419645756" ref="digital-art"/>
-    <file name="tonyote-crop-u392473.png" crc="277675964" ref="digital-art"/>
-    <file name="pegar1-crop-u392223.png" crc="121431668" ref="digital-art"/>
-    <file name="spacehotellines-crop-u476563.jpg" crc="4276699724" ref="digital-art"/>
-    <file name="2_heroes-crop-u483883.jpg" crc="3908091895" ref="digital-art"/>
-    <file name="gemsandsteven-crop-u495303.jpg" crc="83745164" ref="digital-art"/>
+    <file name="spacehotellines-crop-u47656.jpg" crc="4173708745" ref="digital-art"/>
+    <file name="2_heroes-crop-u48388.jpg" crc="311252515" ref="digital-art"/>
+    <file name="gemsandsteven-crop-u49530.jpg" crc="338981352" ref="digital-art"/>
+    <file name="loading.gif" crc="3815509949" ref="digital-art:traditional-art:character-design"/>
+    <file name="capwolf1-crop-u271152.png" crc="3952217142" ref="digital-art"/>
+    <file name="tonyote-crop-u392472.png" crc="468926692" ref="digital-art"/>
+    <file name="pegar1-crop-u392222.png" crc="398839052" ref="digital-art"/>
+    <file name="pulled-fromthesoup294x73.jpg" crc="368206680" seo="true" ref="digital-art"/>
+    <file name="spacehotellines-crop-u476562.jpg" crc="4270979530" ref="digital-art"/>
+    <file name="2_heroes-crop-u483882.jpg" crc="466761515" ref="digital-art"/>
+    <file name="gemsandsteven-crop-u495302.jpg" crc="3873882445" ref="digital-art"/>
+    <file name="capwolf1451x631.png" crc="528854246" seo="true" ref="digital-art"/>
+    <file name="tonyote440x617.png" crc="4225753139" seo="true" ref="digital-art"/>
+    <file name="pegar1455x651.png" crc="4185401315" seo="true" ref="digital-art"/>
+    <file name="pulled-fromthesoup2684x528.jpg" crc="468060669" seo="true" ref="digital-art"/>
+    <file name="capwolf1-crop-u271153.png" crc="161667002" ref="digital-art"/>
+    <file name="tonyote-crop-u392473.png" crc="118127956" ref="digital-art"/>
+    <file name="pegar1-crop-u392223.png" crc="4053316822" ref="digital-art"/>
+    <file name="pulled-fromthesoup289x68.jpg" crc="358062358" seo="true" ref="digital-art"/>
+    <file name="spacehotellines-crop-u476563.jpg" crc="3935214602" ref="digital-art"/>
+    <file name="2_heroes-crop-u483883.jpg" crc="4289217106" ref="digital-art"/>
+    <file name="gemsandsteven-crop-u495303.jpg" crc="20546098" ref="digital-art"/>
     <file name="new doc 27_4-2.jpg" crc="3761565929" seo="true" ref="traditional-art"/>
-    <file name="livia stargaze sketch831x993.jpg" crc="4255256906" seo="true" ref="traditional-art"/>
-    <file name="mallycolor.jpg" crc="3895761519" seo="true" ref="traditional-art"/>
+    <file name="livia stargaze sketch.jpg" crc="4215109370" seo="true" ref="traditional-art:character-design"/>
+    <file name="mallycolor.jpg" crc="3895761519" seo="true" ref="traditional-art:character-design"/>
     <file name="abbington.jpg" crc="274288566" seo="true" ref="traditional-art"/>
     <file name="beryl coronet.jpg" crc="3871103081" seo="true" ref="traditional-art"/>
-    <file name="gemsandsteven.jpg" crc="364131246" seo="true" ref="traditional-art"/>
-    <file name="new doc 27_4-2-crop-u26966.jpg" crc="423568709" ref="traditional-art"/>
-    <file name="livia stargaze sketch-crop-u46543.jpg" crc="3763692217" ref="traditional-art"/>
-    <file name="mallycolor-crop-u47531.jpg" crc="96878540" ref="traditional-art"/>
-    <file name="abbington-crop-u48011.jpg" crc="2179877" ref="traditional-art"/>
-    <file name="beryl coronet-crop-u48599.jpg" crc="5474372" ref="traditional-art"/>
-    <file name="gemsandsteven-crop-u49647.jpg" crc="236911751" ref="traditional-art"/>
-    <file name="new doc 27_4-2-crop-u269662.jpg" crc="423568709" ref="traditional-art"/>
-    <file name="livia stargaze sketch-crop-u465432.jpg" crc="3763692217" ref="traditional-art"/>
-    <file name="mallycolor-crop-u475312.jpg" crc="96878540" ref="traditional-art"/>
-    <file name="abbington-crop-u480112.jpg" crc="2179877" ref="traditional-art"/>
-    <file name="beryl coronet-crop-u485992.jpg" crc="5474372" ref="traditional-art"/>
-    <file name="gemsandsteven-crop-u496472.jpg" crc="236911751" ref="traditional-art"/>
-    <file name="new doc 27_4-2-crop-u269663.jpg" crc="423568709" ref="traditional-art"/>
-    <file name="livia stargaze sketch-crop-u465433.jpg" crc="3763692217" ref="traditional-art"/>
-    <file name="mallycolor-crop-u475313.jpg" crc="96878540" ref="traditional-art"/>
-    <file name="abbington-crop-u480113.jpg" crc="2179877" ref="traditional-art"/>
-    <file name="beryl coronet-crop-u485993.jpg" crc="5474372" ref="traditional-art"/>
-    <file name="gemsandsteven-crop-u496473.jpg" crc="236911751" ref="traditional-art"/>
+    <file name="new doc 27_4-2-crop-u26966.jpg" crc="119903855" ref="traditional-art"/>
+    <file name="livia stargaze sketch-crop-u46543.jpg" crc="364112898" ref="traditional-art"/>
+    <file name="mallycolor-crop-u47531.jpg" crc="22115624" ref="traditional-art"/>
+    <file name="abbington-crop-u48011.jpg" crc="229951501" ref="traditional-art"/>
+    <file name="beryl coronet-crop-u48599.jpg" crc="3917780210" ref="traditional-art"/>
+    <file name="gemsandsteven-crop-u49647.jpg" crc="150939251" ref="traditional-art"/>
+    <file name="livia stargaze sketch602x719.jpg" crc="459789915" seo="true" ref="traditional-art"/>
+    <file name="beryl coronet484x657.jpg" crc="4205368066" seo="true" ref="traditional-art"/>
+    <file name="gemsandsteven534x704.jpg" crc="4099305940" seo="true" ref="traditional-art"/>
+    <file name="new doc 27_4-2-crop-u269662.jpg" crc="262669275" ref="traditional-art"/>
+    <file name="livia stargaze sketch-crop-u465432.jpg" crc="4211773792" ref="traditional-art"/>
+    <file name="mallycolor100x102.jpg" crc="352389937" seo="true" ref="traditional-art"/>
+    <file name="abbington-crop-u480112.jpg" crc="3842129059" ref="traditional-art"/>
+    <file name="beryl coronet-crop-u485992.jpg" crc="3930587049" ref="traditional-art"/>
+    <file name="gemsandsteven-crop-u496472.jpg" crc="3936655784" ref="traditional-art"/>
+    <file name="livia stargaze sketch571x682.jpg" crc="449752459" seo="true" ref="traditional-art"/>
+    <file name="mallycolor698x706.jpg" crc="4069753231" seo="true" ref="traditional-art"/>
+    <file name="beryl coronet510x692.jpg" crc="440055240" seo="true" ref="traditional-art"/>
+    <file name="gemsandsteven494x652.jpg" crc="4189900140" seo="true" ref="traditional-art"/>
+    <file name="new doc 27_4-2-crop-u269663.jpg" crc="392725375" ref="traditional-art"/>
+    <file name="livia stargaze sketch-crop-u465433.jpg" crc="508406548" ref="traditional-art"/>
+    <file name="mallycolor-crop-u475312.jpg" crc="4125147291" ref="traditional-art"/>
+    <file name="abbington-crop-u480113.jpg" crc="471846881" ref="traditional-art"/>
+    <file name="beryl coronet-crop-u485993.jpg" crc="3896413225" ref="traditional-art"/>
+    <file name="gemsandsteven-crop-u496473.jpg" crc="4045666528" ref="traditional-art"/>
+    <file name="spacehotellines2.jpg" crc="383707033" seo="true" ref="character-design"/>
+    <file name="topps and krikit_1.jpg" crc="3945365231" seo="true" ref="character-design"/>
+    <file name="krikit1.jpg" crc="3872948905" seo="true" ref="character-design"/>
+    <file name="livia.jpg" crc="3953825738" seo="true" ref="character-design"/>
+    <file name="new doc 26_1.jpg" crc="4231962317" seo="true" ref="character-design"/>
+    <file name="topps1.jpg" crc="172453669" seo="true" ref="character-design"/>
+    <file name="job.jpg" crc="4224668471" seo="true" ref="character-design"/>
+    <file name="mally.png" crc="359314774" seo="true" ref="character-design"/>
+    <file name="topps and krikit_2.jpg" crc="491401281" seo="true" ref="character-design"/>
+    <file name="spacehotellines-crop-u54511.jpg" crc="85698410" ref="character-design"/>
+    <file name="spacehotellines-crop-u54517.jpg" crc="444808727" ref="character-design"/>
+    <file name="topps and krikit_1-crop-u54515.jpg" crc="110331427" ref="character-design"/>
+    <file name="krikit192x92.jpg" crc="289232362" seo="true" ref="character-design"/>
+    <file name="livia-crop-u54507.jpg" crc="48656033" ref="character-design"/>
+    <file name="new doc 26_1-crop-u54505.jpg" crc="166470259" ref="character-design"/>
+    <file name="topps192x87.jpg" crc="176472562" seo="true" ref="character-design"/>
+    <file name="job98x80.jpg" crc="3958722486" seo="true" ref="character-design"/>
+    <file name="mallycolor92x94.jpg" crc="3763371435" seo="true" ref="character-design"/>
+    <file name="mally98x80.png" crc="515482011" seo="true" ref="character-design"/>
+    <file name="livia stargaze sketch-crop-u54503.jpg" crc="4094466700" ref="character-design"/>
+    <file name="topps and krikit_2-crop-u54509.jpg" crc="446948353" ref="character-design"/>
+    <file name="spacehotellines406x696.jpg" crc="323113545" seo="true" ref="character-design"/>
+    <file name="spacehotellines415x702.jpg" crc="4192245828" seo="true" ref="character-design"/>
+    <file name="krikit1705x705.jpg" crc="4141154807" seo="true" ref="character-design"/>
+    <file name="livia658x745.jpg" crc="174968439" seo="true" ref="character-design"/>
+    <file name="topps1737x696.jpg" crc="432553897" seo="true" ref="character-design"/>
+    <file name="job856x700.jpg" crc="463440988" seo="true" ref="character-design"/>
+    <file name="mallycolor786x795.jpg" crc="363877550" seo="true" ref="character-design"/>
+    <file name="mally754x617.png" crc="3775064346" seo="true" ref="character-design"/>
+    <file name="livia stargaze sketch634x757.jpg" crc="4122966276" seo="true" ref="character-design"/>
+    <file name="topps and krikit_2338x672.jpg" crc="4095413795" seo="true" ref="character-design"/>
+    <file name="spacehotellines-crop-u545112.jpg" crc="10251652" ref="character-design"/>
+    <file name="spacehotellines-crop-u545172.jpg" crc="4131311061" ref="character-design"/>
+    <file name="topps and krikit_1-crop-u545152.jpg" crc="285272842" ref="character-design"/>
+    <file name="krikit1-crop-u54499.jpg" crc="4238611914" ref="character-design"/>
+    <file name="livia-crop-u545072.jpg" crc="3794696741" ref="character-design"/>
+    <file name="new doc 26_1-crop-u545052.jpg" crc="94833600" ref="character-design"/>
+    <file name="topps1-crop-u54501.jpg" crc="4270970075" ref="character-design"/>
+    <file name="job60x50.jpg" crc="419968227" seo="true" ref="character-design"/>
+    <file name="mallycolor-crop-u54521.jpg" crc="315169071" ref="character-design"/>
+    <file name="mally60x50.png" crc="291742246" seo="true" ref="character-design"/>
+    <file name="livia stargaze sketch-crop-u545032.jpg" crc="3871759356" ref="character-design"/>
+    <file name="topps and krikit_2-crop-u545092.jpg" crc="354666936" ref="character-design"/>
+    <file name="spacehotellines404x694.jpg" crc="4292879390" seo="true" ref="character-design"/>
+    <file name="spacehotellines416x705.jpg" crc="89787179" seo="true" ref="character-design"/>
+    <file name="krikit1682x682.jpg" crc="4092820019" seo="true" ref="character-design"/>
+    <file name="livia616x697.jpg" crc="4087333114" seo="true" ref="character-design"/>
+    <file name="topps1750x708.jpg" crc="99796994" seo="true" ref="character-design"/>
+    <file name="job867x708.jpg" crc="509690470" seo="true" ref="character-design"/>
+    <file name="mallycolor736x745.jpg" crc="4270561395" seo="true" ref="character-design"/>
+    <file name="mally762x623.png" crc="315633354" seo="true" ref="character-design"/>
+    <file name="livia stargaze sketch590x705.jpg" crc="359603759" seo="true" ref="character-design"/>
+    <file name="spacehotellines-crop-u545113.jpg" crc="410280634" ref="character-design"/>
+    <file name="spacehotellines-crop-u545173.jpg" crc="4076764275" ref="character-design"/>
+    <file name="topps and krikit_1-crop-u545153.jpg" crc="4267619149" ref="character-design"/>
+    <file name="krikit1-crop-u544992.jpg" crc="4280891250" ref="character-design"/>
+    <file name="livia-crop-u545073.jpg" crc="4117322363" ref="character-design"/>
+    <file name="new doc 26_1-crop-u545053.jpg" crc="423506260" ref="character-design"/>
+    <file name="topps173x69.jpg" crc="3825304104" seo="true" ref="character-design"/>
+    <file name="job73x60.jpg" crc="3758159865" seo="true" ref="character-design"/>
+    <file name="mallycolor-crop-u545212.jpg" crc="231127253" ref="character-design"/>
+    <file name="mally73x60.png" crc="191767848" seo="true" ref="character-design"/>
+    <file name="livia stargaze sketch-crop-u545033.jpg" crc="4193632548" ref="character-design"/>
+    <file name="topps and krikit_2-crop-u545093.jpg" crc="4138446650" ref="character-design"/>
   </folder>
-  <file name="index.html" crc="415430180" seo="true" mt="1473968456093" redirect="true"/>
-  <file name="contact.html" crc="339506735" seo="true" mt="1473968460303" redirect="true"/>
-  <file name="digital-art.html" crc="241171668" seo="true" mt="1473968464912" redirect="true"/>
-  <file name="traditional-art.html" crc="312626591" seo="true" mt="1473968469087" redirect="true"/>
+  <file name="index.html" crc="38614312" seo="true" mt="1473980206161" redirect="true"/>
+  <file name="digital-art.html" crc="173633817" seo="true" mt="1473980209348" redirect="true"/>
+  <file name="traditional-art.html" crc="3913973883" seo="true" mt="1473980150558" redirect="true"/>
+  <file name="character-design.html" crc="3939336820" seo="true" mt="1473980213726" redirect="true"/>
 </manifest>
